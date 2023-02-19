@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "location_app",
+			"path": ".."
+		},
+		{
+			"name": "android",
+			"path": "../../../Downloads/android/android"
+		}
+	],
+	"settings": {}
+}

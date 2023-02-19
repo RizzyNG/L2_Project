@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555264348588",
+    "project_id": "cpmad-project-15bbe",
+    "storage_bucket": "cpmad-project-15bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555264348588:android:31ccf5382474868780ea09",
+        "android_client_info": {
+          "package_name": "com.example.l2_harizhadi_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555264348588-093udk6do7co79e42hpuainrvp9c371f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoBDjO-_O47i25VX9SvWvVu2cw27Nf9CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555264348588-093udk6do7co79e42hpuainrvp9c371f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
